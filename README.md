@@ -2,7 +2,7 @@
 <h3 align="center">I'm undergraduate in Computer Engineering in UFSCAR!</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hiperbrainer&label=Profile%20views&color=0e75b6&style=flat" alt="hiperbrainer" /> </p>
 
-- 🔭 I’m currently working on **Cientific Iniciation**
+- 🔭 I’m currently working on **EISA Project**
 
 - 🌱 I’m currently learning **Data Science and Machine Learning**
 
